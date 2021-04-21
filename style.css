@@ -32,16 +32,9 @@ header.logo{
 	position:relative;
 	max-width:80px;
 }
-.navigation {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  overflow: hidden;
-  background-color: #333;
-  position: sticky;
-  position: -webkit-sticky;
-  top: 0;
+header ul{
+	position:relative;
+	display:flex;
 }
 header ul li{
 	list-style:none;
